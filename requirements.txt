@@ -1,0 +1,8 @@
+streamlit
+openai
+python-dotenv
+pypdf
+python-docx
+scikit-learn
+qrcode
+pillow
